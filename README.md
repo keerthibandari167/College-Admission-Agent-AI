@@ -5,6 +5,9 @@ The Agent answers queries related to courses, fees, eligibility, and admission p
 
 ## Deployment
 The Agent AI is deployed in IBM Cloud (London region) using Watsonx.ai Runtime.
+The College Admission Agent AI was successfully deployed in IBM Cloud (London region) using Watsonx.ai Runtime.  
+Initially, the deployment link was working, but responses were not appearing as expected.  
+To resolve this, a redeployment was attempted. However, the new deployment is currently not activating.
 
 **Deployment Link (Requires IBM Cloud Login):**  
 https://eu-gb.dataplatform.cloud.ibm.com/ml-runtime/deployments/bf05059a-8858-4d44-9eb6-1e293dccd14c/chat?space_id=60c03009-1038-4863-91c5-b1e720cd5e73&context=wx&flush=true
@@ -27,10 +30,3 @@ https://eu-gb.dataplatform.cloud.ibm.com/ml-runtime/deployments/bf05059a-8858-4d
 - RAG (Vector Index)
 - IBM Cloud Deployment Space
 
-## Deployment
-The College Admission Agent AI was deployed in IBM Cloud (London region) using Watsonx.ai Runtime.
-
-**Deployment Link (Requires IBM Cloud Login):**  
-https://eu-gb.dataplatform.cloud.ibm.com/ml-runtime/deployments/bf05059a-8858-4d44-9eb6-1e293dccd14c/chat?space_id=60c03009-1038-4863-91c5-b1e720cd5e73&context=wx&flush=true
-
-**Note:** Redeployment currently shows error (402) due to IBM Lite plan limits. Working screenshots are included in this repository for verification.
