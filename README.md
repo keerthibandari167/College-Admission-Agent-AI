@@ -4,8 +4,7 @@ This project implements a College Admission Agent using IBM Watsonx Assistant (A
 The Agent answers queries related to courses, fees, eligibility, and admission process.
 
 ## Deployment
-The Agent AI is deployed in IBM Cloud (London region) using Watsonx.ai Runtime.
-The College Admission Agent AI was successfully deployed in IBM Cloud (London region) using Watsonx.ai Runtime.  
+The Agent AI is deployed in IBM Cloud (London region) using Watsonx.ai Runtime.  
 Initially, the deployment link was working, but responses were not appearing as expected.  
 To resolve this, a redeployment was attempted. However, the new deployment is currently not activating.
 
